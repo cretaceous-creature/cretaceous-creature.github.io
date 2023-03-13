@@ -121,7 +121,7 @@ theme_config:
         text: xychen@jsk.imi.i.u-tokyo.ac.jp
       - icon: fa-phone-square
         text: (+86)18810357993
-      - icon: fa-phone-square
+      - icon: fa-globe
         text: (+81)080-5649-1118
       - icon: fa-google
         text: Google Scholar
@@ -140,7 +140,7 @@ theme_config:
         location: Bachelor
         major:  Electronics Engineering, Information Science and Technology
     experience:
-      - title:  Director of Robotic ARM Department
+      - title: Director of Robotic ARM Department
         duration: 2021 - Now
         company: Xpeng Robotics
         description: Owner of Xpeng Robotics ARM Business
@@ -157,7 +157,7 @@ theme_config:
         company: The University of Tokyo
         description: 
     projects:
-      - name: "'Second Prize' in GM(General Motors) Vehicle Networking Competition, Peking, China"
+      - name: "'Second Prize' in GM(General Motors) Vehicle Networking Competition, Beijing, China"
         description: Team Leader, Peking University
         contribution: 2013
       - name: "Winner of the First Tomato Robot Harvesting Challenge Competition, Kyushu, Japan"
@@ -175,7 +175,7 @@ theme_config:
       - name: "Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)"
         description: Co-Author
         contribution: 2018
-      - name: "Silver Prize of Technical Breakthrough Award, Tencent"
+      - name: "Silver Prize of Tencent's Technical Breakthrough Award, Shenzhen, China"
         description: Project Owner
         contribution: 2020
       
@@ -185,7 +185,9 @@ theme_config:
       - title: Programming
         items: C/C++, Python, Lisp
       - title: Research Interests
-        items: Legged Robots, Robot Manipulation, Reinforcement Learning
+        items: Legged Robots, Drone, Robot Manipulation, Reinforcement Learning
+      - title: Publications
+        items: Plz refer to the google scholar
 
 
 # Deployment
