@@ -134,11 +134,11 @@ theme_config:
       - university: Peking University, China
         duration: 2014
         location: Master
-        major: CV, Robotics. Poss Lab, Information Science    
+        major: CV, Robotics. Poss Lab, Information Science and Technology   
       - university: Hainan University, China
         duration: 2011
         location: Bachelor
-        major:  EECS
+        major:  Electronics Engineering, Information Science and Technology
     experience:
       - title:  Director of Robotic ARM Department
         duration: 2021 - Now
@@ -156,28 +156,28 @@ theme_config:
         duration: 2017-2018
         company: The University of Tokyo
         description: 
-    Projects:
-      - name: “Second Prize” in “GM(General Motors)” Vehicle Networking Competition, Peking, China
+    projects:
+      - name: "'Second Prize' in GM(General Motors) Vehicle Networking Competition, Peking, China"
         description: Team Leader, Peking University
         contribution: 2013
-      - name: Winner of the First Tomato Robot Harvesting Challenge Competition, Kyushu, Japan
+      - name: "Winner of the First Tomato Robot Harvesting Challenge Competition, Kyushu, Japan"
         description: Member of JSK Team, Tokyo University 
         contribution: 2014
-      - name: DARPA Robotics Challenge(DRC) Final, Fairplex in Pomona, USA
+      - name: "DARPA Robotics Challenge(DRC) Final, Fairplex in Pomona, USA"
         description: Member of JSK Team, Tokyo University 
         contribution: 2015
-      - name: Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)
+      - name: "Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)"
         description: Co-author
         contribution: 2018
-      - name: Mohamed Bin Zayed International Robotic Challenge(MBZIRC), Abu Dhabi, UAE
+      - name: "Mohamed Bin Zayed International Robotic Challenge(MBZIRC), Abu Dhabi, UAE"
         description: Sponsored Team of $350,000
         contribution: 2017
-      - name: Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)
+      - name: "Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)"
         description: Co-author
         contribution: 2018
-      - name: Silver Prize of Technical Breakthrough Award, Tencent
+      - name: "Silver Prize of Technical Breakthrough Award, Tencent"
         description: Project Owner
-        contribution: 2018
+        contribution: 2020
       
     skills:
       - title: Language
