@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Xu Liangwei's Page
+title: Resume
 subtitle: ''
 description: ''
 keywords:
-author:  Xu Liangwei
+author:  Xiangyu chen
 language: zh-CN
 timezone: ''
 
@@ -105,8 +105,8 @@ theme_config:
     copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
       startYear: 2023
       currentYear: 2023
-      author: 徐良威
-      link: https://xlwyes.github.io
+      author: iochen
+      link: https://iochen.github.io
       beian: 
 
   ################################
@@ -181,5 +181,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:xlwyes/xlwyes.github.io.git
+  repo: git@github.com:cretaceous-creature/iochen.github.io.git
   branch: gh-pages
