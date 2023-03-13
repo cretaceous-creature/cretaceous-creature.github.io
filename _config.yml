@@ -115,7 +115,7 @@ theme_config:
   resume:
     name: Xiangyu Chen
     jobtitle:  Robotics Scientist
-    portrait: ./img/darpa.jpg # author's portrait
+    portrait: ./img/sakura.jpg # author's portrait
     contact:
       - icon: fa-envelope
         text: xychen@jsk.imi.i.u-tokyo.ac.jp
@@ -166,14 +166,14 @@ theme_config:
       - name: "DARPA Robotics Challenge(DRC) Final, Fairplex in Pomona, USA"
         description: Member of JSK Team, Tokyo University 
         contribution: 2015
-      - name: "Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)"
-        description: Co-author
-        contribution: 2018
+      - name: "Best Student Paper Award of IEEE Advanced Intelligent Mechatronics (AIM)"
+        description: Second Author
+        contribution: 2017
       - name: "Mohamed Bin Zayed International Robotic Challenge(MBZIRC), Abu Dhabi, UAE"
-        description: Sponsored Team of $350,000
+        description: Key Member of Selected Sponsored Team($350,000)
         contribution: 2017
       - name: "Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)"
-        description: Co-author
+        description: Co-Author
         contribution: 2018
       - name: "Silver Prize of Technical Breakthrough Award, Tencent"
         description: Project Owner
