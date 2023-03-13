@@ -113,48 +113,49 @@ theme_config:
   #     Write your resume Here   #
   ################################
   resume:
-    name:  Xiangyu Chen(陈相羽)
+    name: Xiangyu Chen
     jobtitle:  Robotics Scientist
-    portrait: ./img/avatar.png # author's portrait
+    portrait: ./img/darpa.jpg # author's portrait
     contact:
       - icon: fa-envelope
         text: xychen@jsk.imi.i.u-tokyo.ac.jp
       - icon: fa-phone-square
-        text: (+86)18810357993, (+81)080-5649-1118
-      - icon: fa-globe
-        text: cretaceous-creature.github.io
-        link: https://cretaceous-creature.github.io
+        text: (+86)18810357993
+      - icon: fa-phone-square
+        text: (+81)080-5649-1118
       - icon: fa-google
         text: Google Scholar
         link: https://scholar.google.com/citations?user=SE11E_oAAAAJ&hl=zh-CN
     education:
-      - university: Hainan University, China
-        duration: 07 - 11
-        location: Bachelor
-        major:  EECS
-      - university: Peking University, China
-        duration: 11 - 14
-        location: Master
-        major: CV, Robotics. Poss Lab, Information Science
       - university: The University of Tokyo, Japan
-        duration: 14 - 17
+        duration: 2017
         location: Ph.d
         major: Robotics, AI. JSK lab, Creative Informatics
+      - university: Peking University, China
+        duration: 2014
+        location: Master
+        major: CV, Robotics. Poss Lab, Information Science    
+      - university: Hainan University, China
+        duration: 2011
+        location: Bachelor
+        major:  EECS
     experience:
       - title:  HOD of Robotic ARM
-        duration: 21 - Now
+        duration: 2021 - Now
         company: Xpeng Robotics
         description: Head of department of Robotic ARM
       - title: Senior Researcher, Robotics X
-        duration: 19 - 21
+        duration: 2019 - 2021
         company: Tencent Corp.
         description: Owner of Tencent's Quadruped Project.
       - title: Postdoc Researcher
-        duration: 18
+        duration: 2018
         company: Peking University 
+        description: 
       - title: Postdoc Researcher
-        duration: 17-18
+        duration: 2017-2018
         company: The University of Tokyo
+        description: 
     projects:
       - name: 机器马控制软件研发
         description: "目标为制造面向量产的四足机器人，机器人为带有机械臂的小马形态，具备遥控移动、自主导航、智能操作、影音娱乐等功能。该项目为公司主要业务，软件分为嵌入式、控制、自动驾驶等多个部分，本人负责核心控制软件的基本框架设计和算法集成。<br>• 设计并实现了一套简易中间件，主要以共享内存为核心连接算法模块，实现模块间的高效通讯。<br>• 为自研中间件接入 ROS 等中间件，适配仿真环境。<br>• 根据业务场景与算法实现设计软件分层结构，适配机械臂控制与四足底盘控制算法，在机器人真机稳定运行。<br>• 与控制算法协同，完成全身控制、智能操作算法在机器人上部署，完成自主取物、开门等多种场景功能。"
