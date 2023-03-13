@@ -121,15 +121,17 @@ theme_config:
         text: xychen@jsk.imi.i.u-tokyo.ac.jp
       - icon: fa-phone-square
         text: (+86)18810357993
+        link: poss.pku.edu.cn
       - icon: fa-globe
         text: (+81)080-5649-1118
+        link: www.jsk.t.u-tokyo.ac.jp
       - icon: fa-google
         text: Google Scholar
         link: https://scholar.google.com/citations?user=SE11E_oAAAAJ&hl=zh-CN
     education:
       - university: The University of Tokyo, Japan
         duration: 2017
-        location: Ph.d
+        location: Ph.D
         major: Robotics, AI. JSK lab, Creative Informatics
       - university: Peking University, China
         duration: 2014
@@ -145,7 +147,7 @@ theme_config:
         company: Xpeng Robotics
         description: Owner of Xpeng Robotics ARM Business
       - title: Senior Researcher, Robotics X
-        duration: 2019 - 2021
+        duration: 2018 - 2021
         company: Tencent Corp.
         description: Owner of Tencent's Quadruped Project.
       - title: Postdoc Researcher
@@ -182,8 +184,6 @@ theme_config:
     skills:
       - title: Language
         items: Chinese (Native), English (Fluent), Japanese (Fluent)
-      - title: Programming
-        items: C/C++, Python, Lisp
       - title: Research Interests
         items: Legged Robots, Drone, Robot Manipulation, Reinforcement Learning
       - title: Publications
@@ -191,7 +191,6 @@ theme_config:
 
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
   repo: git@github.com:cretaceous-creature/cretaceous-creature.github.io.git
