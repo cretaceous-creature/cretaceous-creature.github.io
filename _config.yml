@@ -140,10 +140,10 @@ theme_config:
         location: Bachelor
         major:  EECS
     experience:
-      - title:  HOD of Robotic ARM
+      - title:  Director of Robotic ARM Department
         duration: 2021 - Now
         company: Xpeng Robotics
-        description: Head of department of Robotic ARM
+        description: Owner of Xpeng Robotics ARM Business
       - title: Senior Researcher, Robotics X
         duration: 2019 - 2021
         company: Tencent Corp.
@@ -156,18 +156,27 @@ theme_config:
         duration: 2017-2018
         company: The University of Tokyo
         description: 
-    Awards:
-      - name: ·“Second Prize” in “GM(General Motors)” Vehicle Networking Competition
-        description: 
+    Projects:
+      - name: “Second Prize” in “GM(General Motors)” Vehicle Networking Competition, Peking, China
+        description: Team Leader, Peking University
         contribution: 2013
-      - name: ·Winner of the First Tomato Robot Harvesting Challenge Competition, Japan
-        description: 
+      - name: Winner of the First Tomato Robot Harvesting Challenge Competition, Kyushu, Japan
+        description: Member of JSK Team, Tokyo University 
         contribution: 2014
-      - name: ·Best Student Paper Award of IEEE Advanced Intelligent Mechatronics (AIM)
-        description: 
+      - name: DARPA Robotics Challenge(DRC) Final, Fairplex in Pomona, USA
+        description: Member of JSK Team, Tokyo University 
+        contribution: 2015
+      - name: Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)
+        description: Co-author
+        contribution: 2018
+      - name: Mohamed Bin Zayed International Robotic Challenge(MBZIRC), Abu Dhabi, UAE
+        description: Sponsored Team of $350,000
         contribution: 2017
       - name: Best Paper Award（UAV） of IEEE Robotics and Automation (ICRA)
-        description: 
+        description: Co-author
+        contribution: 2018
+      - name: Silver Prize of Technical Breakthrough Award, Tencent
+        description: Project Owner
         contribution: 2018
       
     skills:
