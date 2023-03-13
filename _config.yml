@@ -105,28 +105,28 @@ theme_config:
     copyright:  # customize your copyright in footer, e.g. © 2019-2020 Zhiwei Li
       startYear: 2023
       currentYear: 2023
-      author: iochen
-      link: https://iochen.github.io
+      author: xychen
+      link: https://cretaceous-creature.github.io
       beian: 
 
   ################################
   #     Write your resume Here   #
   ################################
   resume:
-    name:  徐良威
-    jobtitle:  软件工程师
+    name:  陈相羽
+    jobtitle:  机器人专家
     portrait: ./img/avatar.png # author's portrait
     contact:
       - icon: fa-envelope
-        text: xlwyes@gmail.com
+        text: xychen@jsk.imi.i.u-tokyo.ac.jp
       - icon: fa-phone-square
-        text: (+86) 186 0524 3924
+        text: (+86) 18810357993, (+81)080-5649-1118
       - icon: fa-globe
-        text: xlwyes.github.io
-        link: https://xlwyes.github.io
+        text: cretaceous-creature.github.io
+        link: https://cretaceous-creature.github.io
       - icon: fa-github
         text: Github主页
-        link: https://github.com/0xbabeface
+        link: https://github.com/cretaceous-creature
     education:
       - university: 北京大学
         duration: 2012 - 2016
@@ -181,5 +181,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:cretaceous-creature/iochen.github.io.git
+  repo: git@github.com:cretaceous-creature/cretaceous-creature.github.io.git
   branch: gh-pages
