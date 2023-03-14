@@ -144,16 +144,20 @@ theme_config:
     experience:
       - title: Director of Robotic ARM Department
         duration: 2021 - Now
-        company: Xpeng Robotics
+        company: Xpeng Robotics, China
         description: Director of Xpeng Robotics ARM Business, manage a team of 30 researchers&engineers. Build up 2 type of robot arms for Xpeng quadruped robot. Develop intelligent manipulation function for Xpeng quadruped robot. 
       - title: Senior Researcher, Robotics X
         duration: 2018 - 2021
-        company: Tencent Corp.
+        company: Tencent Corp, China
         description: Project Owner of Tencent's Quadruped Project. Create Tencent's robot 'Max' from scratch.
       - title: Postdoc Researcher
         duration: 2017-2018
         company: The University of Tokyo, Peking University
         description: Legged Robots, military UGV research.
+      - title: Research Intern Exchange-Student
+        duration: 2013-2014
+        company: Toyota Technological Institute(TTI), Japan
+        description: Autonomous Vehicle research.
     projects:
       - name: "'Second Prize' in GM(General Motors) Vehicle Networking Competition, Beijing, China"
         description: Team Leader, Peking University
