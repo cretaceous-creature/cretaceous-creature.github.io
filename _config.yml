@@ -115,7 +115,7 @@ theme_config:
   resume:
     name: Xiangyu Chen
     jobtitle:  Robotics Scientist
-    portrait: ./img/sakura.jpg # author's portrait
+    portrait: ./img/darpa.jpg # author's portrait
     contact:
       - icon: fa-envelope
         text: xychen@jsk.imi.i.u-tokyo.ac.jp
