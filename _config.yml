@@ -186,9 +186,11 @@ theme_config:
         items: Chinese (Native), English (Fluent), Japanese (Fluent)
       - title: Research Interests
         items: Legged Robots, Drone, Robot Manipulation, Reinforcement Learning
-      - title: Publications
-        items: Plz refer to the google scholar
-
+#     - title: Publications
+#        items: Plz refer to the google scholar
+    Publications:
+      - title: Run like a dog: Learning based whole-body control framework for quadruped gait style transfer
+        items: Fulong Yin, Annan Tang, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen
 
 # Deployment
 deploy:
