@@ -142,6 +142,10 @@ theme_config:
         location: Bachelor
         major:  Electronics Engineering, Information Science and Technology
     experience:
+      - title: Founder
+        duration: 2023 - Now
+        company: IO-AI.tech, China & Houou.ai, Singapore
+        description: To make a difference in AI+Robotics
       - title: Director of Robotic ARM Department
         duration: 2021 - Now
         company: Xpeng Robotics, China
@@ -186,11 +190,10 @@ theme_config:
         items: Chinese (Native), English (Fluent), Japanese (Fluent)
       - title: Research Interests
         items: Legged Robots, Drone, Robot Manipulation, Reinforcement Learning
-#     - title: Publications
-#        items: Plz refer to the google scholar
-    Publications:
-      - title: Run like a dog: Learning based whole-body control framework for quadruped gait style transfer
-        items: Fulong Yin, Annan Tang, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen
+      - title: Publications
+        items: Plz refer to the google scholar
+
+
 
 # Deployment
 deploy:
