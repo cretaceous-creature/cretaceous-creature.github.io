@@ -184,6 +184,9 @@ theme_config:
       - name: "Silver Prize of Tencent's Technical Breakthrough Award, Shenzhen, China"
         description: Project Owner
         contribution: 2020
+      - name: "Best Paper Award (Conference) of IEEE Robotics and Automation (ICRA)"
+        description: Co-Author
+        contribution: 2024
       
     skills:
       - title: Language
